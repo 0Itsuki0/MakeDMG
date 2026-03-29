@@ -4,6 +4,7 @@ A Python script for creating dmg with custom background, icon, windows, and etc.
 ## Run
 - python3 make_dmg.py — builds the DMG in the same directory as the script
 
+![](./demo.png)
 
 ## Usage & Customization
 
